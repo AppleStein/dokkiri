@@ -17,6 +17,12 @@
 		DB60429B2800652F00595C9F /* change_imageTests.m in Sources */ = {isa = PBXBuildFile; fileRef = DB60429A2800652F00595C9F /* change_imageTests.m */; };
 		DB6042A52800652F00595C9F /* change_imageUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = DB6042A42800652F00595C9F /* change_imageUITests.m */; };
 		DB6042A72800652F00595C9F /* change_imageUITestsLaunchTests.m in Sources */ = {isa = PBXBuildFile; fileRef = DB6042A62800652F00595C9F /* change_imageUITestsLaunchTests.m */; };
+		DB6042B42800694E00595C9F /* yumekawa_baby.png in Resources */ = {isa = PBXBuildFile; fileRef = DB6042B32800694E00595C9F /* yumekawa_baby.png */; };
+		DB6042B52800694E00595C9F /* yumekawa_baby.png in Resources */ = {isa = PBXBuildFile; fileRef = DB6042B32800694E00595C9F /* yumekawa_baby.png */; };
+		DB6042B62800694E00595C9F /* yumekawa_baby.png in Resources */ = {isa = PBXBuildFile; fileRef = DB6042B32800694E00595C9F /* yumekawa_baby.png */; };
+		DB6042B92800696400595C9F /* tsue_koukikoureisya_ojiisan.png in Resources */ = {isa = PBXBuildFile; fileRef = DB6042B82800696400595C9F /* tsue_koukikoureisya_ojiisan.png */; };
+		DB6042BA2800696400595C9F /* tsue_koukikoureisya_ojiisan.png in Resources */ = {isa = PBXBuildFile; fileRef = DB6042B82800696400595C9F /* tsue_koukikoureisya_ojiisan.png */; };
+		DB6042BB2800696400595C9F /* tsue_koukikoureisya_ojiisan.png in Resources */ = {isa = PBXBuildFile; fileRef = DB6042B82800696400595C9F /* tsue_koukikoureisya_ojiisan.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -54,6 +60,9 @@
 		DB6042A02800652F00595C9F /* change-imageUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "change-imageUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		DB6042A42800652F00595C9F /* change_imageUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = change_imageUITests.m; sourceTree = "<group>"; };
 		DB6042A62800652F00595C9F /* change_imageUITestsLaunchTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = change_imageUITestsLaunchTests.m; sourceTree = "<group>"; };
+		DB6042B32800694E00595C9F /* yumekawa_baby.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = yumekawa_baby.png; path = ../../Downloads/yumekawa_baby.png; sourceTree = "<group>"; };
+		DB6042B72800695800595C9F /* yumekawa_baby.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = yumekawa_baby.png; sourceTree = "<group>"; };
+		DB6042B82800696400595C9F /* tsue_koukikoureisya_ojiisan.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = tsue_koukikoureisya_ojiisan.png; path = ../../Downloads/tsue_koukikoureisya_ojiisan.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -84,6 +93,8 @@
 		DB6042722800652D00595C9F = {
 			isa = PBXGroup;
 			children = (
+				DB6042B82800696400595C9F /* tsue_koukikoureisya_ojiisan.png */,
+				DB6042B32800694E00595C9F /* yumekawa_baby.png */,
 				DB60427D2800652D00595C9F /* change-image */,
 				DB6042992800652F00595C9F /* change-imageTests */,
 				DB6042A32800652F00595C9F /* change-imageUITests */,
@@ -104,6 +115,7 @@
 		DB60427D2800652D00595C9F /* change-image */ = {
 			isa = PBXGroup;
 			children = (
+				DB6042B72800695800595C9F /* yumekawa_baby.png */,
 				DB60427E2800652D00595C9F /* AppDelegate.h */,
 				DB60427F2800652D00595C9F /* AppDelegate.m */,
 				DB6042812800652D00595C9F /* SceneDelegate.h */,
@@ -239,7 +251,9 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				DB6042B92800696400595C9F /* tsue_koukikoureisya_ojiisan.png in Resources */,
 				DB60428E2800652F00595C9F /* LaunchScreen.storyboard in Resources */,
+				DB6042B42800694E00595C9F /* yumekawa_baby.png in Resources */,
 				DB60428B2800652F00595C9F /* Assets.xcassets in Resources */,
 				DB6042892800652D00595C9F /* Main.storyboard in Resources */,
 			);
@@ -249,6 +263,8 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				DB6042B52800694E00595C9F /* yumekawa_baby.png in Resources */,
+				DB6042BA2800696400595C9F /* tsue_koukikoureisya_ojiisan.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -256,6 +272,8 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				DB6042B62800694E00595C9F /* yumekawa_baby.png in Resources */,
+				DB6042BB2800696400595C9F /* tsue_koukikoureisya_ojiisan.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

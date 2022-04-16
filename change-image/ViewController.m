@@ -12,7 +12,10 @@
 @end
 
 @implementation ViewController
-
+{
+    __weak IBOutlet UIImageView *image;
+    
+}
 - (void)viewDidLoad {
     [super viewDidLoad];
     // Do any additional setup after loading the view.
